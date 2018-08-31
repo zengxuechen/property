@@ -1,0 +1,13 @@
+spring:
+    http:
+        encoding:
+            force: true
+            charset: UTF-8
+            enabled: true
+    application:
+        name: duxiaohu-config-client
+server:
+    tomcat:
+        uri-encoding: UTF-8
+    port: 8001
+    
