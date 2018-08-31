@@ -9,4 +9,4 @@ spring:
 server:
     tomcat:
         uri-encoding: UTF-8
-    port: 8003
+    port: 8053
